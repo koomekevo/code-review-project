@@ -1,6 +1,7 @@
 body {
   background-color: rgb(226, 224, 224);
 }
+
 .title {
   width: 100%;
   height: 5rem;
@@ -23,18 +24,17 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  
 } */
 
 .tribute-child {
   width: 100%;
 }
 
-.tribute-child > h2, p {
+.tribute-child > h2 p {
   text-align: center;
 }
 
-.tribute-child  p {
+.tribute-child p {
   width: 500px;
 }
 
