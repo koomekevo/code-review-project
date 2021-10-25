@@ -30,12 +30,12 @@ body {
   width: 100%;
 }
 
-.tribute-child > h2 p {
-  text-align: center;
-}
-
 .tribute-child p {
   width: 500px;
+}
+
+.tribute-child > h2 p {
+  text-align: center;
 }
 
 .tribute-list {
